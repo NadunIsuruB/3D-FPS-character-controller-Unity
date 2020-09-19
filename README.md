@@ -1,2 +1,2 @@
-# 3D-character-controller
+# 3D-FPS-character-controller
 #
